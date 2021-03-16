@@ -34,7 +34,7 @@ If your eyes aren't feeling totally busted after a day of hacking, try playing s
 ### 5. Sleep.
 Sometimes all you need is a fat nap. Or perhaps it's time for you to retire for the day. It's almost never worth it to consistently deprive yourself of sleep.
 
-With this list in mind, please always prioritize your health over hacking and jus about anything else. 
+With this list in mind, please always prioritize your health over hacking and just about anything else. 
 
 Remember, if you don't have your health - you can't hack!
 
