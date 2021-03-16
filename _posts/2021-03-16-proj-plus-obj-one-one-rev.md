@@ -7,7 +7,7 @@ tags: [certprep, projectplus]
 
 *Wording directly from the exam objectives is in bold* 
 
-***Disclaimer -  I am not an expert in project management. I am a student studying to get the CompTIA Project+ Certification. If you see that something is totally wrong in a blog post I wrote, call me out and I will fix it. Additionally, most of the review posts I am writing from memory, so if something seems as though it is plagiarized, again - call me out and I will fix it. ***
+*Disclaimer -  I am not an expert in project management. I am a student studying to get the CompTIA Project+ Certification. If you see that something is totally wrong in a blog post I wrote, call me out and I will fix it. Additionally, most of the review posts I am writing from memory, so if something seems as though it is plagiarized, again - call me out and I will fix it. *
 
 When managing a project, you have to consider what characteristics define a project versus day-to-day operations. 
 
