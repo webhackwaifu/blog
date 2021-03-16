@@ -22,4 +22,5 @@ navbar:
    link: "about"
  - name: "Resources"
    link: "resources"
-
+ - name: "Writeups"
+   link: "writeups"
