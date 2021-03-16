@@ -12,23 +12,23 @@ A table of contents for this page will come, one day...
 - [Hacktricks](https://book.hacktricks.xyz/)
 
 ### Webhacking resources 
-#### General
+**General**
 - [Url Encoder and Decoder](https://meyerweb.com/eric/tools/dencoder/)
 - [HTML5 Security](https://html5sec.org/)
 - [WebSecurity Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
 
-#### Tools
+**Tools**
 - [OWASP ZAP](https://www.zaproxy.org/)
-- 
-#### XSS
+
+**XSS**
 - [Portswigger - One XSS Cheatsheet to rule them all](https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all)
 
-#### CTFs to play
+**CTFs to play**
 - [Portswigger WebSecurity Academy](https://portswigger.net/web-security)
 - [Websec.fr](http://websec.fr/)
 
 ### PWN (Not my specialty, but I went through a phase)
-#### CTFs to play
+**CTFs to play**
 - [Microcorruption CTF](https://microcorruption.com/login)
 - [Burp Suite](https://portswigger.net/burp)
 
