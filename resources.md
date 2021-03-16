@@ -19,6 +19,7 @@ A table of contents for this page will come, one day...
 
 **Tools**
 - [OWASP ZAP](https://www.zaproxy.org/)
+- [Burp Suite](https://portswigger.net/burp)
 
 **XSS**
 - [Portswigger - One XSS Cheatsheet to rule them all](https://portswigger.net/research/one-xss-cheatsheet-to-rule-them-all)
@@ -30,7 +31,7 @@ A table of contents for this page will come, one day...
 ### PWN (Not my specialty, but I went through a phase)
 **CTFs to play**
 - [Microcorruption CTF](https://microcorruption.com/login)
-- [Burp Suite](https://portswigger.net/burp)
+
 
 ### General Tools / Fun
 - [Vim Shortcuts](https://alvinalexander.com/linux/vi-vim-editor-end-of-line/#:~:text=Short%20answer%3A%20When%20in%20vi,end%20of%20the%20current%20line.)
@@ -39,3 +40,4 @@ A table of contents for this page will come, one day...
 - [Vroid suite of tools for anime modeling fun](https://vroid.com/en/)
 - [Postman - for messing with HTTP requests](https://www.postman.com/)
 - [w3schools - general web dev resource - learning how a technology works is very useful in hacking](https://www.w3schools.com/)
+- [StackEdit - In-browser Markdown Editor](https://stackedit.io/)
