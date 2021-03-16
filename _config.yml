@@ -20,6 +20,6 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resources ♡"
+ - name: "Resources"
    link: "resources"
 
