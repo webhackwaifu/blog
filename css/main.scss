@@ -293,3 +293,21 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
+
+.highlight {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    margin-bottom: 20px;
+    background: #d8e7ff;
+}
+
+pre {
+   overflow: auto;
+}
+
+.spoiler {
+    z-index:999999 !important;
+    color: black; 
+} 

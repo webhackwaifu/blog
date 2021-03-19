@@ -41,3 +41,4 @@ A table of contents for this page will come, one day...
 - [Postman - for messing with HTTP requests](https://www.postman.com/)
 - [w3schools - general web dev resource - learning how a technology works is very useful in hacking](https://www.w3schools.com/)
 - [StackEdit - In-browser Markdown Editor](https://stackedit.io/)
+- [JSFiddle for encoding your HTML tags - in case they don't render properly for ctf writeups](http://jsfiddle.net/amedvedi/3pfxv5d6/)
